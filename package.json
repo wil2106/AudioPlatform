@@ -1,0 +1,19 @@
+{
+  "name": "audioplatform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wil2106/AudioPlatform.git"
+  },
+  "author": "wil2106",
+  "license": "CC-BY-1.0",
+  "bugs": {
+    "url": "https://github.com/wil2106/AudioPlatform/issues"
+  },
+  "homepage": "https://github.com/wil2106/AudioPlatform#readme"
+}
